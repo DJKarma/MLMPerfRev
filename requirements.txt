@@ -1,0 +1,12 @@
+numpy==1.13.1
+pandas
+tabula
+pandas
+pyPdf2
+numexpr
+pdfminer
+scikit-learn
+tensorflow
+opencv 
+opencv-python
+pytesseract
